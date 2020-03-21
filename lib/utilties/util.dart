@@ -1,4 +1,4 @@
-var api_bse = "http://127.0.0.1:8000/";
+var api_bse = "https://sultan-delivery-v1.herokuapp.com/";
 var catapi = "cats/?format=json";
 var foodapi = "foods/?format=json";
 var drinkapi = "drinks/?format=json";
